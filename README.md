@@ -10,3 +10,6 @@ This code is located in the folder CODE. Each figure file (e.g., Figure1.m, Figu
 
 All produced data is stored in the DATA folder in .mat format.
 
+[![DOI](https://zenodo.org/badge/1363197849.svg)](https://doi.org/10.5281/zenodo.22693461)
+
+
